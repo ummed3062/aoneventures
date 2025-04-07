@@ -57,6 +57,8 @@
   .menuBtn {
     display: block;
     cursor: pointer;
+    height: 27px;
+    width: 27px;
   }
 
   .menuItems {
