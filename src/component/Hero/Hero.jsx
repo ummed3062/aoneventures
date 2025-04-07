@@ -18,11 +18,11 @@ export const Hero = () => {
         <h1 className={styles.title}>Welcome To Aone Ventures</h1>
         <p className={styles.description}>
           Aone Ventures is a privately owned dynamic company, founded in 2024
-          as an international reselling/trading company of industrial plastic
+          as an international reselling and trading company of industrial plastic
           raw materials. We have been performing in the plastic material
-          industry since 2024 and we are mainly specialized in Nylon/ABS and
-          Polypropylene raw material. Very concerned by the future of
-          our planet we also focus on regrinds and regran from post industrial
+          industry since 2024 and we are mainly specialized in LDPE, HDPE, Nylon, ABS and
+          Polypropylene raw material. We are concerned by the future of
+          our planet, we also focus on regrinds and regran from post industrial
           and post consumer waste.
         </p>
         <ul className={styles.links}>
