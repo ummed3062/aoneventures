@@ -10,11 +10,10 @@ export const Navbar = () => {
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
          <img
-    className={styles.menuBtn}
-    src="nav/logo1.jpg" // replace with actual path
-    alt="Aone Ventures Logo"
-
-  />
+          src={getImageUrl("nav/logo1.jpg")}
+          alt="Aman's Image"
+          className={styles.heroImg1}
+        />
       Aone Ventures
       </a>
      
