@@ -15,9 +15,9 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Welcome To Aoneventures</h1>
+        <h1 className={styles.title}>Welcome To Aone Ventures</h1>
         <p className={styles.description}>
-          Aoneventures is a privately owned dynamic company, founded in 2024
+          Aone Ventures is a privately owned dynamic company, founded in 2024
           as an international reselling/trading company of industrial plastic
           raw materials. We have been performing in the plastic material
           industry since 2024 and we are mainly specialized in Nylon/ABS and
