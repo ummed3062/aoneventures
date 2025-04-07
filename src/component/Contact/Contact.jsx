@@ -8,9 +8,9 @@ export const Contact = () => {
       <div className={styles.footerContent}>
         {/* Company Info */}
         <div className={styles.section}>
-          <h4>AONEVENTURES</h4>
+          <h4>Contact US</h4>
           <p>
-          Aoneventures is a privately owned dynamic
+          Aone Ventures is a privately owned dynamic
           company, founded in 2024 as an international reselling/trading company
           of industrial plastic raw materials.
           </p>
@@ -20,7 +20,14 @@ export const Contact = () => {
         <div className={styles.section}>
           <h4>PRODUCTS</h4>
           <ul>
-            <li>Acrylonitrile Butadiene Styrene (ABS)</li>
+             <li>Natural HD</li>
+            <li>Natural PP</li>
+            <li>Natural LD</li>
+            <li>Milky Bio PP</li>
+            <li>Silver Bio PP</li>
+            <li>Plant west natural HD</li>
+            <li>Natural PP</li>
+            <li>Opaque Thermoplastic</li>
             <li>Nylon Granules</li>
             <li>Polyoxymethylene (POM)</li>
             <li>Polycarbonates (PC)</li>
