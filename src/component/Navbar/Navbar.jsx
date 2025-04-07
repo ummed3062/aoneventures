@@ -15,7 +15,7 @@ export const Navbar = () => {
           alt="Aman's Image"
           className={styles.heroImg1}
         />
-      one Ventures
+      Aone Ventures
       </a>
      
       <div className={styles.menu}>
