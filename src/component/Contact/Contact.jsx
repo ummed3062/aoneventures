@@ -8,7 +8,7 @@ export const Contact = () => {
       <div className={styles.footerContent}>
         {/* Company Info */}
         <div className={styles.section}>
-          <h4>Contact US</h4>
+          <h4>AONE VENTURES</h4>
           <p>
           Aone Ventures is a privately owned dynamic
           company, founded in 2024 as an international reselling/trading company
