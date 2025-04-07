@@ -11,8 +11,8 @@ export const Contact = () => {
           <h4>AONE VENTURES</h4>
           <p>
           Aone Ventures is a privately owned dynamic
-          company, founded in 2024 as an international reselling/trading company
-          of industrial plastic raw materials.
+          company, founded in 2024 as an international reselling and trading company
+          of industrial plastic granules.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export const Contact = () => {
             <li>Natural LD</li>
             <li>Milky Bio PP</li>
             <li>Silver Bio PP</li>
-            <li>Plant west natural HD</li>
+            <li>Plant Waste Natural HD</li>
             <li>Natural PP</li>
             <li>Opaque Thermoplastic</li>
             <li>Nylon Granules</li>
@@ -56,7 +56,6 @@ export const Contact = () => {
             <div className={`${styles.icon} ${styles.google}`}>G</div>
             <div className={`${styles.icon} ${styles.instagram}`}>i</div>
             <div className={`${styles.icon} ${styles.linkedin}`}>in</div>
-            <div className={`${styles.icon} ${styles.github}`}>gh</div>
           </div>
         </div>
       </div>
