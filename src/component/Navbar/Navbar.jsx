@@ -9,6 +9,12 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
+         <img
+    className={styles.menuBtn}
+    src="nav/logo1.jpg" // replace with actual path
+    alt="Aone Ventures Logo"
+
+  />
       Aone Ventures
       </a>
      
