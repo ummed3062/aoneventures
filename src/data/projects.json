@@ -2,7 +2,7 @@
   {
     "title": "Acrylonitrile Butadiene Styrene (ABS)",
     "imageSrc": "projects/acrylonitrile-butadiene-styrene.jpg",
-    "description": "ABS is a highly-functional plastic known for its strong heat resistance and impact resistance. It is used in numerous areas including toys such as automobiles, IT devices, etc. ",
+    "description": "ABS is a highly-functional plastic known for its strong heat resistance and impact resistance. It is used in numerous areas including toys, automobiles, IT devices, etc. ",
     "skills": ["SpringBoot", "Microservices", "MySQL"],
     "demo": "https://github.com/ummed3062/Banking-App",
     "source": "https://github.com/ummed3062/Banking-App"
