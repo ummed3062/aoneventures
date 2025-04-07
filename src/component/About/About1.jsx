@@ -7,13 +7,11 @@ export default function About1() {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <p className={styles.description}>
-          Aoneventures is a privately owned dynamic company, founded in 2024 as
+          Aone Ventures is a privately owned dynamic company, founded in 2024 as
           an international reselling/trading company of industrial plastic raw
           materials. We have been performing in the plastic material industry
           since 2024 and we are mainly specialized in Nylon / ABS and
-          Polypropylene raw material. Worldwide product sourcing and well
-          established links with suppliers make EURSIACORP an excellent partner
-          for plastic processors and converters. Very concerned by the future of
+          Polypropylene raw material. Very concerned by the future of
           our planet we also focus on regrinds and regran from post industrial
           and post consumer waste.
         </p>
@@ -33,7 +31,7 @@ export default function About1() {
         </p>
 
         <p className={styles.description}>
-          our world-class quality products that are manufactured by us. Our
+          Our world-class quality products that are manufactured by us. Our
           company is committed to manufacture Plastic Raw Materials.
         </p>
       </div>
@@ -41,7 +39,7 @@ export default function About1() {
         <div className={styles.content1}>
           {/* <h1 className={styles.title1}>Aman Shrama</h1> */}
           <p className={styles.description1}>
-            As the founder of Aoneventures, I’m proud to lead a company driven
+            As the founder of Aone Ventures, I’m proud to lead a company driven
             by innovation, sustainability, and a commitment to quality in the
             industrial plastics trade. Our mission is to build a global impact
             while contributing to a greener future through responsible sourcing
