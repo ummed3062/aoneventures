@@ -52,7 +52,7 @@ export default function About1() {
                 marginTop: "1rem",
               }}
             >
-              — Aman Sharma 
+              — Aman Swami 
             </span>
             <span
               style={{
