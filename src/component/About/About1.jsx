@@ -19,7 +19,7 @@ export default function About1() {
         <p className={styles.description}>
           We are one of the leading Manufacturers, Suppliers and Exporters of
           Plastic Raw Material. We market our products under the brand name
-          "Aoneventures" such as Manufacturing and Trading in Broad Range of
+          "Aone Ventures" such as Manufacturing and Trading in Broad Range of
           Plastic Raw Material, Plastic Raw Material Reprocessing Services,
           Virgin Plastic Raw Material, Color Masterbatches , Colored Plastic
           Granules , Job Work Of Reprocessing Of Plastic, Master Batches
