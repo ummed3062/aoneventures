@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Acrylonitrile Butadiene Styrene (ABS)",
+    "imageSrc": "projects/acrylonitrile-butadiene-styrene.jpg",
+    "description": "ABS is a highly-functional plastic known for its strong heat resistance and impact resistance. It is used in numerous areas including toys such as automobiles, IT devices, etc. ",
+    "skills": ["SpringBoot", "Microservices", "MySQL"],
+    "demo": "https://github.com/ummed3062/Banking-App",
+    "source": "https://github.com/ummed3062/Banking-App"
+  },
+  {
+    "title": "Nylon Granules",
+    "imageSrc": "projects/nylon.jpg",
+    "description": "Nylon is the plastic material based on polyamide-6 that is a thermoplastic resin with excellent mechanical, thermal and electrical properties. Nylon is widely used in the manufacture of automobile and industrial parts.",
+    "skills": ["Java", "Servlet", "Jsp", "HTML","CSS","MySQL"],
+    "demo": "https://github.com/ummed3062/RecruitmentManagingPlatform",
+    "source": "https://github.com/ummed3062/RecruitmentManagingPlatform"
+  },
+  
+  {
+    "title": "Polyoxymethylene (POM)",
+    "imageSrc": "projects/polyoxymethylene-1.jpg",
+    "description": "POM is a material of an excellent quality with features of excellent anti-friction/anti-wear, chemical-resistance, heat-resisting stability, precise dimensions and moulding abilities. ",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  },
+  
+  {
+    "title": "Polycarbonates (PC)",
+    "imageSrc": "projects/polycarbonates.jpg",
+    "description": "Polycarbonate, an amorphous polymer, offers a unique combination of toughness with exceptional impact strength. It also exhibits high optical clarity, excellent creep, and high temperature resistance.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  },
+  {
+    "title": "Poly Methyl Methacrylate",
+    "imageSrc": "projects/poly-methyl-methacrylate-1.jpg",
+    "description": "Super transparent, amorphous PMMA offers high resistance to UV light and weathering, chemical and heat resistance, long service life, and unlimited colouring options for various applications.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  },
+  {
+    "title": "Poly Vinyl Chloride (PVC)",
+    "imageSrc": "projects/poly-vinyl-chloride.jpg",
+    "description": "A durable and long-lasting material that can be used in a variety of applications, either rigid or flexible: building and construction, medical devices and food packaging.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  },
+  {
+    "title": "Polystyrene (PS)",
+    "imageSrc": "projects/polystyrene.jpg",
+    "description": "A transparent polymer used in a variety of applications, such as food packaging and appliances. Polystyrene foams are used for thermal insulation and protective packaging.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  },
+  {
+    "title": "Polybutylene Terephthalate (PBT)",
+    "imageSrc": "projects/polybutylene-terephthalate-1.jpg",
+    "description": "Dimensional stability, low warpage, weatherable, excellent chemical resistance and high quality surface finish & gloss.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  },
+  {
+    "title": "Polypropylene (PP)",
+    "imageSrc": "projects/polypropylene.jpg",
+    "description": "Complete range of Homo, Random & Impact Polypropylene and Polypropylene Compounds for Flexible and Rigid Applications.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  }
+]

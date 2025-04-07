@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Nagarro",
+    "startDate": "Jul, 2022",
+    "endDate": "Present",
+    "experiences": [" Developed and executed multiple projects assigned by the Training Team, Achieved an on-time delivery rate of 95% by utilizing Agile methodologies and delivering software modules within tight deadlines.",
+     "REST API integrating with third-party APIs to filter and deliver targeted data and enhance application performance by 15%.",
+     "Implemented a Java-based Notification System with support for multiple notification channels, employing design patterns for enhanced extensibility and maintainability.",
+     " Integrated the Payment Gateway with Spring boot."],
+    "imageSrc": "history/nagarro.png"
+  },
+  {
+    "role": "Java Developer",
+    "organisation": "Careerthon",
+    "startDate": "Dec, 2021",
+    "endDate": "May, 2022",
+    "experiences": [" Trained on emerging technologies, addressed Java issues for trainees, and fostered hands-on learning in cutting-edge Java development.", 
+    "Resolved critical bugs and issues through meticulous debugging and testing, ensuring a bug fix success rate of 95%."
+  ],
+    "imageSrc": "history/Careerthon.png"
+  },
+  {
+    "role": "Tranee",
+    "organisation": "Linux World",
+    "startDate": "Jun, 2019",
+    "endDate": "Aug, 2019",
+    "experiences": [
+      "Learned many technologies during the training period",
+      "Linux, Docker, Augement Reality",
+      "Developed a Unity Application using Augumented reality"
+      
+    ],
+    "imageSrc": "history/lw.png"
+  }
+]
