@@ -8,13 +8,13 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-       <img
+      
+      <a className={styles.title} href="/">
+         <img
           src={getImageUrl("nav/logo1.jpg")}
           alt="Aman's Image"
           className={styles.heroImg1}
         />
-      <a className={styles.title} href="/">
-        
       Aone Ventures
       </a>
      
